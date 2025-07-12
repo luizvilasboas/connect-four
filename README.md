@@ -4,7 +4,7 @@ Connect Four is a two-player connection board game, in which the players choose 
 
 ## Demo
 
-![Demo of connect-four](https://gitlab.com/olooeez/connect-four/-/raw/main/img/demo.png)
+![Demo of connect-four](https://github.com/luizvilasboas/connect-four/blob/main/img/demo.png?raw=true)
 
 ## Usage
 
@@ -23,7 +23,7 @@ You can use the following options to use connect-four:
 To run connect-four, you must clone this repository with the following command:
 
 ```
-git clone https://gitlab.com/olooeez/connect-four.git
+git clone https://github.com/luizvilasboas/connect-four.git
 ```
 
 #### Enter the cloned repository
@@ -57,7 +57,7 @@ ruby lib/connect_four.rb
 To run the program in a docker container, clone the repository to your machine first:
 
 ```
-git clone https://gitlab.com/olooeez/connect-four.git
+git clone https://github.com/luizvilasboas/connect-four.git
 ```
 
 #### Enter the cloned repository
@@ -95,4 +95,4 @@ If you would like to contribute to this project, please feel free to open a merg
 
 ## License
 
-This project is licensed under the [MIT](https://gitlab.com/olooeez/connect-four/-/blob/main/LICENSE) License. See the LICENSE file for details.
+This project is licensed under the [MIT](https://github.com/luizvilasboas/connect-four/blob/main/LICENSE) License. See the LICENSE file for details.
